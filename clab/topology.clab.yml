@@ -11,7 +11,7 @@ topology:
       enforce-startup-config: true
       image: ceos:4.34.4M
   defaults:
-    kind: ceos
+    kind: arista_ceos
     extras:
       ceos-copy-to-flash:
         - clab/cv-onboarding-token
