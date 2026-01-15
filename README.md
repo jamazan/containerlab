@@ -1,4 +1,4 @@
-# CVaaS and AVD Demo, EVPN MLAG
+# CVP and AVD Demo, EVPN MLAG
 
 This lab is tested for:  
 
